@@ -247,9 +247,6 @@ Evet, aynı ağdaki herkes tarayıcıdan bağlanabilir. Ancak ESP8266 tek çekir
 NodeMCU-AI-Chatbot/
 ├── src/
 │   └── NodeMCU_AI_Chatbot.ino    # Ana Arduino kodu
-├── docs/
-│   ├── screenshot-mobile.png      # Mobil ekran görüntüsü
-│   └── screenshot-desktop.png     # Masaüstü ekran görüntüsü
 ├── LICENSE
 └── README.md
 ```
