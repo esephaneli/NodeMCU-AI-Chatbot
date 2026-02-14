@@ -17,23 +17,10 @@ Tarayıcınızdan bağlanın, yapay zeka ile sohbet edin. Sunucu yok, ücret yok
 
 ---
 
-## 📸 Ekran Görüntüleri
-
-<div align="center">
-
-| Mobil Arayüz | Masaüstü Arayüz |
-|:---:|:---:|
-| <img src="docs/screenshot-mobile.png" width="250"> | <img src="docs/screenshot-desktop.png" width="450"> |
-
-</div>
-
-> 📌 *Ekran görüntülerini `docs/` klasörüne ekleyin*
-
----
 
 ## 🎬 Demo
 
-> LinkedIn'deki demo videosunu buraya ekleyebilirsiniz.
+> (https://www.linkedin.com/feed/update/urn:li:groupPost:10050108-7428126316568219648?utm_source=share&utm_medium=member_desktop&rcm=ACoAADq0uBEB37Eb8-GsG0Tn99dvBYCo-vGxDYs)
 
 ---
 
@@ -289,4 +276,4 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. Özgürce kullanın, de
 
 Projeyi beğendiyseniz ⭐ vermeyi unutmayın!
 
-Sorularınız için [Issues](https://github.com/[KULLANICI_ADINIZ]/NodeMCU-AI-Chatbot/issues) açabilirsiniz.
+Sorularınız için www.linkedin.com/in/emrehan-şephanelioğlu-101a22235 üzeriden iletişime geçebilirsiniz.
